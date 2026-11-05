@@ -9,3 +9,10 @@ a little help from claude ( i made the background and everything else, thanks cl
 used only with python, the info is taken from roblox's public api
 
 NOT AFFILIATED WITH ROBLOX ITSELF
+
+
+IDEAS FOR SCOUT
+
+shows their bio
+
+thats about it lol
